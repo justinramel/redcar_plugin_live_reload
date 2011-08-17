@@ -1,0 +1,14 @@
+Writing my first redcar plugin
+
+I really like the idea of redcar the fact the editor is written in ruby and you can write plugins in ruby relaly attract me to this editor, though I must confess I do not use it as my day to day editor. I wonder if writting my own plugins will turn redcar into my go to editor. Let see how easy it is to write plugin.
+
+First follow the install instructions here (https://github.com/redcar/redcar/wiki/installation)
+
+Whats the big idea
+The idea for my first plugin is very ambitious I'd like to refresh a browser web page when ever I save a change to its source.
+
+Followed the guides found here
+http://simplic.it/blog/my-first-redcar-plugin.html
+http://quickwebdesign.net/documents/20110710_redcar_plugins.pdf
+
+
