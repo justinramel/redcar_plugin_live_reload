@@ -1,7 +1,8 @@
 Plugin.define do
   name         "live_reload"
-  version      "0.0.1"   # be proud of what you make - release as 1.0!
+  version      "0.1"
   file         "lib", "live_reload"
   object       "Redcar::LiveReload"
-  dependencies ""
+  dependencies "project", ">0"
 end
+
