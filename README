@@ -1,6 +1,0 @@
-## My first Redcar plugin
-
-The idea for my first plugin is rather ambitious considering I’ve no idea how to write a plugin. 
-I’d like to replicate some of the functionality of Live Reload – basically refresh a browser web page whenever I save a file in Redcar. This will save me constantly hitting refresh in the browser when working with Backbone.js.
-
-I’m hoping to trap the save event of Redcar and call out to my browser (Chrome) and tell it to refresh the page.
