@@ -13,6 +13,7 @@ More info here [http://justinram.wordpress.com/2011/08/19/my-first-redcar-plugin
 
 ## Installation
 cd ~/.redcar/plugins
+
 git clone git@github.com:justinramel/redcar_plugin_live_reload.git
 
 ## How to use
@@ -22,7 +23,7 @@ This is important or the plugin will not work!
 Configure the plugin via the Redcar plugin preferences - Redcar -> 
 Preferences... -> live_reload_plugin.yaml
 
-Set the keyword to the title of the Chrome browser tab you'd like to refresh on 
+Set the keyword to the url of the Chrome browser tab you'd like to refresh on 
 save.
 
 That's should be it, now every time you save in Redcar the chrome browser tab 
